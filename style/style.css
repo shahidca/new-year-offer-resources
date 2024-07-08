@@ -194,3 +194,29 @@ align-items: center;
  .number{
     color: #FF0000;
  }
+.last-main-section{
+    width: 1320px;
+    height: 986px;
+    border: 2px solid rgb(36, 8, 222);
+    margin: 0 auto;
+}
+.color-box{
+    width: 1320px;
+    height: 229px;
+    background-color: #FF0000;
+    margin-top: 45.4%;
+}
+.text-box{
+    text-align: center;
+}
+.main{
+font-size: 24px;
+color: #070211;
+}
+.heading{
+    font-size: 72px;
+    color: #070211;
+}
+.color{
+    color: #FF0000;
+}
