@@ -261,6 +261,9 @@ width: 100%;
    margin: 0 auto;
    margin-top: 120px;
 }
+.color-001{
+   color: #FF0000;
+}
 .photo-group-2{
    display: grid;
   grid-template-columns: repeat(3,1fr);
